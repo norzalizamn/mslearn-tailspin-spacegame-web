@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/norzalizamatnoh0734/devops/_apis/build/status/norzalizamn.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/norzalizamatnoh0734/devops/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
